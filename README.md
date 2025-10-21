@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://halovianrobin.atabook.org/">atabook!</a>
 <p align="center">
-<a href="https://hits.sh/github.com/phainonslover/hits/"><img alt="Hits" src="https://hits.sh/github.com/phainonslover/hits.svg?label=harmonies&color=9882d2&labelColor=716d97"/></a>
+<a href="https://hits.sh/github.com/robinirl/hits/"><img alt="Hits" src="https://hits.sh/github.com/robinirl/hits.svg?label=harmonies&color=9b85d5&labelColor=706c96"/></a>
 
 <p align="center">
 i love phainon <3333
