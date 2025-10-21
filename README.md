@@ -4,3 +4,7 @@
 <a href="https://halovianrobin.atabook.org/">atabook!</a>
 <p align="center">
 <a href="https://hits.sh/github.com/cyreneirl/hits/"><img alt="Hits" src="https://hits.sh/github.com/cyreneirl/hits.svg?label=harmonies&color=9981d9&labelColor=6b6796"/></a>
+
+<p align="center">
+i love phainon <3333
+lmk if ur interested in my yumeship!! i love to talk about it!! :D
